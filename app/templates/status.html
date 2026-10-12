@@ -1,0 +1,2 @@
+{% extends 'base.html' %}{% block content %}<h1>{{t['status']}}</h1>{% for key,name in source_names.items() %}<article class="panel"><b>{{name}}</b><p>{{runs.get(key,{}).get('status','not run')}}</p><small>{{runs.get(key,{}).get('stats',{})}}
+{{runs.get(key,{}).get('error','')}}</small></article>{% endfor %}{% endblock %}

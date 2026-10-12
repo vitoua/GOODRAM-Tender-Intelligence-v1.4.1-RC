@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block content %}<h1>{{t['sources']}}</h1>{% for key,name in source_names.items() %}<article class="panel"><h2>{{name}}</h2><p>{{source_descriptions[key]}}</p></article>{% endfor %}{% endblock %}

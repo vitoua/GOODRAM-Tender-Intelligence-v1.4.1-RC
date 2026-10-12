@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block content %}<h1>{{t['cpv']}}</h1>{% for source,f in filters.items() %}<article class="panel"><h2>{{source|upper}}</h2><p>{{f.codes|join(', ') if f.codes else 'No code filter'}}</p></article>{% endfor %}{% endblock %}

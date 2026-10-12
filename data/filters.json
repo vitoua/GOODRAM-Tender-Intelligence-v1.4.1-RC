@@ -1,0 +1,262 @@
+{
+  "ted": {
+    "codes": [
+      "30200000",
+      "30230000",
+      "30233000",
+      "30234000",
+      "30236000",
+      "30237000",
+      "32400000",
+      "32420000",
+      "48800000",
+      "48820000"
+    ],
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "DRAM",
+      "DDR4",
+      "DDR5",
+      "flash memory",
+      "memory module",
+      "server",
+      "storage",
+      "disk array"
+    ]
+  },
+  "prozorro": {
+    "codes": [
+      "30200000",
+      "30210000",
+      "30230000",
+      "30233000",
+      "30233100",
+      "30233131",
+      "30233132",
+      "30233180",
+      "30234000",
+      "30234600",
+      "30236000",
+      "30236100",
+      "30236110",
+      "30237000",
+      "30237200",
+      "32420000",
+      "48800000",
+      "48820000",
+      "48821000",
+      "48822000",
+      "48823000"
+    ],
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "оперативна пам’ять",
+      "модуль пам’яті",
+      "флеш-пам’ять",
+      "твердотільний накопичувач",
+      "сервер",
+      "сховище даних",
+      "дисковий масив"
+    ]
+  },
+  "bzp": {
+    "codes": [
+      "30200000",
+      "30230000",
+      "30233000",
+      "30234000",
+      "30236000",
+      "30237000",
+      "32420000",
+      "48820000"
+    ],
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "pamięć RAM",
+      "moduł pamięci",
+      "pamięć flash",
+      "serwer",
+      "macierz dyskowa",
+      "storage"
+    ]
+  },
+  "germany": {
+    "codes": [
+      "30200000",
+      "30230000",
+      "30233000",
+      "30234000",
+      "30236000",
+      "30237000",
+      "32420000",
+      "48820000"
+    ],
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "Arbeitsspeicher",
+      "Speichermodul",
+      "Flash-Speicher",
+      "Server",
+      "Datenspeicher",
+      "Festplatte"
+    ]
+  },
+  "ekap": {
+    "codes": [],
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "RAM",
+      "DRAM",
+      "bellek modülü",
+      "flash bellek",
+      "sunucu",
+      "veri depolama",
+      "disk dizisi"
+    ]
+  },
+  "nen": {
+    "codes": [
+      "30200000",
+      "30230000",
+      "30233000",
+      "30234000",
+      "30236000",
+      "30237000",
+      "32420000",
+      "48820000"
+    ],
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "operační paměť",
+      "paměťový modul",
+      "flash paměť",
+      "server",
+      "datové úložiště",
+      "diskové pole"
+    ]
+  },
+  "slovakia": {
+    "codes": [
+      "30200000",
+      "30230000",
+      "30233000",
+      "30234000",
+      "30236000",
+      "30237000",
+      "32420000",
+      "48820000"
+    ],
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "operačná pamäť",
+      "pamäťový modul",
+      "flash pamäť",
+      "server",
+      "dátové úložisko",
+      "diskové pole"
+    ]
+  },
+  "cvpis": {
+    "codes": [
+      "30200000",
+      "30230000",
+      "30233000",
+      "30234000",
+      "30236000",
+      "30237000",
+      "32420000",
+      "48820000"
+    ],
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "operatyvioji atmintis",
+      "atminties modulis",
+      "flash atmintis",
+      "serveris",
+      "duomenų saugykla",
+      "diskų masyvas"
+    ]
+  },
+  "ekr": {
+    "codes": [
+      "30200000",
+      "30230000",
+      "30233000",
+      "30234000",
+      "30236000",
+      "30237000",
+      "32420000",
+      "48820000"
+    ],
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "memóriamodul",
+      "flash memória",
+      "szerver",
+      "adattároló",
+      "lemeztömb",
+      "merevlemez"
+    ]
+  },
+  "latvia": {
+    "codes": [
+      "30200000",
+      "30230000",
+      "30233000",
+      "30233100",
+      "30234000",
+      "30236000",
+      "30236100",
+      "30237000",
+      "32420000",
+      "48820000"
+    ],
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "cietvielu disks",
+      "datu nesējs",
+      "zibatmiņa",
+      "atmiņas modulis",
+      "operatīvā atmiņa",
+      "serveris",
+      "datu glabāšana",
+      "disku masīvs"
+    ]
+  },
+  "estonia": {
+    "codes": [
+      "30200000",
+      "30230000",
+      "30233000",
+      "30233100",
+      "30234000",
+      "30236000",
+      "30236100",
+      "30237000",
+      "32420000",
+      "48820000"
+    ],
+    "keywords": [
+      "SSD",
+      "NVMe",
+      "pooljuhtketas",
+      "välkmälu",
+      "mälumoodul",
+      "muutmälu",
+      "andmekandja",
+      "andmesalvestus",
+      "server",
+      "kettamassiiv"
+    ]
+  }
+}
